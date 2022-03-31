@@ -22,7 +22,7 @@
         <source.encoding>utf-8</source.encoding>
         <main.class>hn.cch.AppMain</main.class>
 
-        <spring.version>4.3.18.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <aspectj.version>1.8.9</aspectj.version>
 
 
